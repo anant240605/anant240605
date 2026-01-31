@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-## 🟢 My Contribution Graph
+<img src="https://raw.githubusercontent.com/anant240605/anant240605/output/snake.svg" alt="Snake animation" />
 
-![Pacman](https://raw.githubusercontent.com/anant240605/anant240605/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pacman](https://raw.githubusercontent.com/anant240605/anant240605/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
 <!--
 **anant240605/anant240605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
