@@ -32,13 +32,13 @@
    
    
    <h1 align="center">Hi 👋, I'm Anant</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Backend  Developer</h3>
 
-- 🌱 I’m currently learning **React, NEXT.JS**
+- 🌱 I’m currently learning **Java, Spring boot , Redis , Docker, Kafka**
 
 - 👨‍💻 All of my projects are available at [https://anant-devportfolio.netlify.app/](https://anant-devportfolio.netlify.app/)
 
-- 💬 Ask me about **C/C++, React**
+- 💬 Ask me about **C/C++, React, Java , Spring boot **
 
 - 📫 How to reach me **anant240605@gmail.com**
 
